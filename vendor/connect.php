@@ -2,10 +2,10 @@
 
 // mysql connection
 
-const HOST    = 'localhost';
-const USER    = 'root';
+const HOST    = '';
+const USER    = '';
 const PASS    = '';
-const DB_NAME = 'test';
+const DB_NAME = '';
 
 $connect = mysqli_connect(
   HOST, 
